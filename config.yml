@@ -113,15 +113,15 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: About
+    - identifier: about
       name: About
       url: about
       weight: 10
-    - identifier: Resume
+    - identifier: resume
       name: Resume
       url: resume
       weight: 20
-    - identifier: Product
+    - identifier: product
       name: Product
       url: product
       weight: 30
