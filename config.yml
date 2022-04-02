@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "profile.png"
+    imageUrl: "profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
