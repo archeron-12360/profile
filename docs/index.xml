@@ -9,5 +9,32 @@
       <link>https://archeron-12360.github.io/profile/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://archeron-12360.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product</title>
+      <link>https://archeron-12360.github.io/profile/product/</link>
+      <pubDate>Sat, 02 Apr 2022 23:39:39 +0900</pubDate>
+      
+      <guid>https://archeron-12360.github.io/profile/product/</guid>
+      <description>開発したプロダクト テスト</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://archeron-12360.github.io/profile/resume/</link>
+      <pubDate>Sat, 02 Apr 2022 23:38:40 +0900</pubDate>
+      
+      <guid>https://archeron-12360.github.io/profile/resume/</guid>
+      <description>resume テスト</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://archeron-12360.github.io/profile/about/</link>
+      <pubDate>Sat, 02 Apr 2022 23:34:06 +0900</pubDate>
+      
+      <guid>https://archeron-12360.github.io/profile/about/</guid>
+      <description>テスト テスト</description>
+    </item>
+    
   </channel>
 </rss>
