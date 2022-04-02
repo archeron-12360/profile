@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://archeron-12360.github.io/profile/sitemap.xml
