@@ -20,7 +20,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -51,8 +51,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
+    text: "🏠Home"
+    icon: 
     iconHeight: 35
 
   # profile-mode
@@ -60,15 +60,15 @@ params:
     enabled: false # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "profile.png"
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    # buttons:
+    #   - name: Posts
+    #     url: posts
+    #   - name: Tags
+    #     url: tags
 
   # home-info mode
   homeInfoParams:
@@ -113,17 +113,17 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: about
-      name: about
-      url: /about/
+    - identifier: About
+      name: About
+      url: about
       weight: 10
-    - identifier: resume
-      name: resume
-      url: /resume/
+    - identifier: Resume
+      name: Resume
+      url: resume
       weight: 20
-    - identifier: product
-      name: product
-      url: /product/
+    - identifier: Product
+      name: Product
+      url: product
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
