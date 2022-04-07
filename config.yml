@@ -58,8 +58,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: I’m Kentaro Shimokawa.
+    subtitle: "wanna be a Software Engineer & Product Manager"
     imageUrl: "profile.jpg"
     imageWidth: 200
     imageHeight: 200
@@ -72,16 +72,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "I’m Kentaro Shimokawa."
+    Content: wanna be a Software Engineer & Product Manager
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/archeron-12360"
 
   analytics:
     google:
@@ -117,13 +113,13 @@ menu:
       name: About
       url: about
       weight: 10
-    - identifier: resume
-      name: Resume
-      url: resume
-      weight: 20
     - identifier: product
       name: Product
       url: product
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: posts
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

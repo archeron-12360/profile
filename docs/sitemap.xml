@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://archeron-12360.github.io/profile/</loc>
+    <lastmod>2022-04-08T02:51:06+09:00</lastmod>
+  </url><url>
+    <loc>https://archeron-12360.github.io/profile/posts/</loc>
+    <lastmod>2022-04-08T02:51:06+09:00</lastmod>
+  </url><url>
+    <loc>https://archeron-12360.github.io/profile/posts/first/</loc>
+    <lastmod>2022-04-08T02:51:06+09:00</lastmod>
+  </url><url>
     <loc>https://archeron-12360.github.io/profile/product/</loc>
     <lastmod>2022-04-02T23:39:39+09:00</lastmod>
-  </url><url>
-    <loc>https://archeron-12360.github.io/profile/resume/</loc>
-    <lastmod>2022-04-02T23:38:40+09:00</lastmod>
   </url><url>
     <loc>https://archeron-12360.github.io/profile/about/</loc>
     <lastmod>2022-04-02T23:34:06+09:00</lastmod>
   </url><url>
     <loc>https://archeron-12360.github.io/profile/categories/</loc>
-  </url><url>
-    <loc>https://archeron-12360.github.io/profile/</loc>
   </url><url>
     <loc>https://archeron-12360.github.io/profile/tags/</loc>
   </url>
