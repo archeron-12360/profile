@@ -78,5 +78,3 @@ draft: false
   - Google Forms：一通りの操作可能
   - Google ハングアウト： 一通りの操作可能
   - Google Colaoboratory: 基本操作
-
-  - 以上です！
